@@ -1,10 +1,22 @@
-# Hey, I'm Lali 👋
+# Hi, I'm Laura 👋
 
-✨ Developer | Explorer | Problem solver
+I'm currently learning web development and building small projects while exploring how the web works.
 
-- 🔭 Currently building: cool projects in JS & Python  
-- 🌱 Learning: advanced web & AI dev  
-- 💡 Fun fact: I brand myself as **Lali Labs** 🌌
+## 🛠 Currently learning
+- HTML
+- CSS
+- Web fundamentals
+- Git & GitHub
 
-Connect with me:
-[GitHub](https://github.com/lali-labs) | [Portfolio](#) | [LinkedIn](#)
+## 🚀 What I'm doing
+- Practicing building simple websites
+- Experimenting with layouts and design
+- Improving my coding skills step by step
+
+## 💻 Tools
+- VS Code
+- GitHub
+- Chrome DevTools
+
+## ✨ About me
+Curious mind, learning by building things and figuring stuff out along the way.
